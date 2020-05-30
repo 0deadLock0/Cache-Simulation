@@ -66,8 +66,8 @@ Language and Version Support:
 * The program has been completely written in Python 3.8.1.
 
 Method 1:    Using command prompt or terminal
-	  * Run the cmd/termial in the folder where code file -"Abhimanyu_2019226_FinalAssignment_1.py" or "Abhimanyu_2019226_FinalAssignment_2.py" is present.
-	  * Enter "python Abhimanyu_2019226_FinalAssignment_1.py" or "python Abhimanyu_2019226_FinalAssignment_2.py" (without quotes) to run single level and 2 level cache simulation respectively.
+	  * Run the cmd/termial in the folder where code file -"cache1.py" or "cache2.py" is present.
+	  * Enter "python cache1.py" or "python cache2.py" (without quotes) to run single level and 2 level cache simulation respectively.
 	  * Provide input in adequate format as stated above in Input section.
 Method 2:    Using IDE
 	  * Compile and run the python code.
