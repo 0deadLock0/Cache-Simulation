@@ -5,7 +5,7 @@
 
 **Functionality:** Simulates working of Cache in different types of mapping
 
-** Purpose:** End Semester Assignment for CSE112-Computer Organization, Winter Semester 2020 at IIIT Delhi
+**Purpose:** End Semester Assignment for CSE112-Computer Organization, Winter Semester 2020 at IIIT Delhi
 
 - - - -
 
